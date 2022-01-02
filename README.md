@@ -1,4 +1,4 @@
-# SaaS Booking Platgorm - Domain Driven Design with Spring Boot 
+# SaaS Booking Platform - Domain Driven Design with Spring Boot 
 
 # Dependencies
 - docker
